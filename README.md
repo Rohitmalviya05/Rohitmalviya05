@@ -1,42 +1,74 @@
 <h1 align="center">Hi 👋, I'm Rohit Malviya</h1>
-<h3 align="center">🚀 Passionate Developer | Python | Web Development</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | AI | Full Stack Developer</h3>
 
 ---
 
 ## 🧑‍💻 About Me
-- 💡 I love building real-world projects  
-- 🌱 Currently learning **Advanced Python & Web Development**  
-- 🔭 Working on improving **problem-solving skills**  
-- 📊 Interested in **data-driven applications**  
+- 🎓 B.Tech CSE @ Sitare University (2027)
+- 💡 Passionate about building **AI-driven and real-world applications**
+- 🌱 Currently learning **Advanced DSA, Machine Learning & Full Stack Development**
+- 🔍 Interested in **data-driven systems, optimization & intelligent applications**
+- ⚡ Strong focus on **problem-solving and system design**
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Python, HTML, CSS  
-- 📊 Tools: Jupyter Notebook  
-- 🔧 Version Control: Git & GitHub  
+
+### 💻 Programming
+- Python, Java, C, JavaScript  
+
+### 🌐 Web Development
+- HTML, CSS, Flask  
+
+### 🗄️ Databases
+- MySQL, PostgreSQL  
+
+### 📊 Libraries & Tools
+- Pandas, NumPy, Matplotlib, NetworkX  
+- TensorFlow  
+- Git & GitHub  
+- Linux, Selenium  
 
 ---
 
 ## 📌 Projects
 
-### 🔹 TestCode_1
-> Experimentation and testing project
+### 🚚 OptiRoute Delivery System
+> AI-powered delivery optimization system for smart routing and parcel assignment  
+- 🔹 Improves delivery efficiency using intelligent algorithms  
+- 🔹 Integrated Google Maps API for real-time tracking  
+- 🔹 Built with TensorFlow, Flask, PostgreSQL  
 
-### 🔹 PORTFOLIO
-> Personal portfolio website built using HTML
+---
 
-### 🔹 Graph-Tutorial
-> Jupyter Notebook project covering graph concepts
+### 🌦️ Weather Insights
+> Full-stack weather analytics platform  
+- 🔹 Real-time weather + air quality data  
+- 🔹 Interactive dashboards using Chart.js  
+- 🔹 Built with Flask + OpenWeatherMap API  
 
-### 🔹 Weather-Insights
-> Weather-based web project
+---
 
-### 🔹 KrishiBuddy 🌾
-> Agriculture-focused Python project
+### 🌾 KrishiBuddy
+> AI-based crop disease detection system  
+- 🔹 Detects plant diseases using image processing  
+- 🔹 Suggests pesticides & preventive actions  
+- 🔹 Built using TensorFlow & Flask  
 
-### 🔹 Sitare_Coding_Club
-> Coding community project using Python
+---
+
+### 💻 Sitare Coding Club
+> Community website with modern UI  
+- 🔹 Designed clean and user-friendly interface  
+- 🔹 Focused on frontend + usability  
+
+---
+
+### 📊 LinkedIn Network Analysis
+> Graph-based social network analysis  
+- 🔹 Built network graph using real data  
+- 🔹 Applied centrality & graph algorithms  
+- 🔹 Used NetworkX, Pandas, Matplotlib  
 
 ---
 
@@ -55,14 +87,15 @@
 ## 📫 Contact Me
 - 📧 Email: malviyarohit180@gmail.com  
 - 🌐 GitHub: https://github.com/Rohitmalviya05  
+- 💼 LinkedIn: (Add your LinkedIn link here)
 
 ---
 
 ## 🌟 Goals
 - 🚀 Become a Software Engineer  
-- 💡 Build impactful projects  
-- 🤝 Contribute to Open Source  
+- 🤖 Build AI-powered impactful solutions  
+- 🌍 Contribute to Open Source  
 
 ---
 
-<p align="center">⭐ If you like my work, give a star to my repositories!</p>
+<p align="center">⭐ If you like my work, consider giving a star!</p>
