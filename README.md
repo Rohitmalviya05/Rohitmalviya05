@@ -24,8 +24,7 @@
 - MySQL, PostgreSQL  
 
 ### 📊 Libraries & Tools
-- Pandas, NumPy, Matplotlib, NetworkX  
-- TensorFlow  
+- Pandas, NumPy, Matplotlib
 - Git & GitHub  
 - Linux, Selenium  
 
