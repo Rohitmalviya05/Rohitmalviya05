@@ -87,7 +87,7 @@
 ## 📫 Contact Me
 - 📧 Email: malviyarohit180@gmail.com  
 - 🌐 GitHub: https://github.com/Rohitmalviya05  
-- 💼 LinkedIn: (Add your LinkedIn link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/rohit-malviya-633929324
 
 ---
 
